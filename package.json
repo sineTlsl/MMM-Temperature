@@ -1,0 +1,22 @@
+{
+  "name": "mmm-temperature",
+  "version": "1.0.0",
+  "description": "MagicMirror² Temperature Module",
+  "main": "MMM-Temperature.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sieun-Lim/MMM-Temperature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sieun-Lim/MMM-Temperature/issues"
+  },
+  "homepage": "https://github.com/Sieun-Lim/MMM-Temperature#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

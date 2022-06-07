@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.MMM-Temperature {
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+}
+
+.myContent {
+    border-bottom: 1px solid #666;
+    font-weight: 600;
+    font-size: 150%;
+    color: rgba(177, 177, 177, 0.931);
+    text-align: right;
+    margin-right: 5%;
+}
+
+.temper-icon {
+    color: white;
+	display: inline;
+    margin-right: 10%;
+}
+
+.temper-HeaderHD2, .temper-HeaderHD3 {
+    margin-left: 5%;
+    font-size: 140%;
+    color:rgb(233, 233, 233);
+    text-shadow: rgb(110, 110, 110)
+}
+
+.temper-text, .temper-text2 {
+    font-size: 145%;
+}
+
+.temper-text {
+    margin-left: 20%;
+    color:rgb(255, 168, 168)
+}
+
+.temper-text2 {
+    margin-left: 20%;
+}
+
+.MMM-Temperature table {
+    margin-top: 5%;
+    margin-left: 5%;
+    padding-left: 10%;
+}
+
+#count {
+    font-size: 115%;
+}
