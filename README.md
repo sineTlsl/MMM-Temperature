@@ -15,6 +15,7 @@ ___
 
 
 
+
 ### Using the module ###
 ___
 Add it to the modules array in the `config/config.js` file:
