@@ -33,9 +33,9 @@ Module.register("MMM-Temperature", {
         element.className = "myContent"
         element.innerHTML = this.config.foo
 
-        var subElement = document.createElement("p")
+       /*  var subElement = document.createElement("p")
         subElement.innerHTML = "Count(Update every second):  " + this.count
-        subElement.id = "COUNT"
+        subElement.id = "COUNT" */
 
         var table = document.createElement("table")
         var tbdy = document.createElement("tbody")
@@ -129,7 +129,7 @@ Module.register("MMM-Temperature", {
 
         wrapper.appendChild(element)
         wrapper.appendChild(table)
-        wrapper.appendChild(subElement)
+        //wrapper.appendChild(subElement)
 
         return wrapper
     },
