@@ -6,7 +6,7 @@
 }
 
 .myContent {
-    /* border-bottom: 1px solid #666; */
+    border-bottom: 1px solid #666;
     font-weight: 600;
     font-size: 150%;
     color: rgba(177, 177, 177, 0.931);
