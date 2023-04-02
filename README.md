@@ -4,7 +4,7 @@ MMM-Temperature
 ### Install & Configuration ###
 ___
     cd ~/MagicMirror/modules
-    git clone https://github.com/Sieun-Lim/MMM-Temperature.git
+    git clone https://github.com/sineTlsl/MMM-Temperature.git
     cd MMM-Temperature
     npm install
 
