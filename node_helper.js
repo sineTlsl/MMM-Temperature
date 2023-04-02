@@ -4,11 +4,7 @@ const NodeHelper = require("node_helper");
 const mysql = require('mysql');
 
 const db = mysql.createConnection({
-	host: '119.194.240.110',
-	port: 33060,
-	user: 'tlsl13',
-	password: '1234',
-	database: 'MMM_Temperature'
+    // 개인 정보
 });
 
 module.exports = NodeHelper.create({
